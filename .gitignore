@@ -1,0 +1,25 @@
+# Compiled Java class files
+*.class
+
+# VS Code settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Log files
+*.log
+
+# Temporary or build files
+tmp/
+temp/
+bin/
+out/
+
+# Backup files
+*~
+*.bak
+
+# Ignore students.txt if you don’t want to push it to GitHub
+# Uncomment the next line if you prefer to keep it local
+# students.txt
